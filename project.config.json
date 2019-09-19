@@ -13,6 +13,8 @@
 	"appid": "wxe2875716299fa092",
 	"projectname": "wx5",
 	"cloudfunctionRoot": "cloud-functions/",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
